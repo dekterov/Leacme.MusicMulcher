@@ -5,6 +5,7 @@
 This application features the ability to use the [AcoustID](https://acoustid.org/) crowd-sourced audio metadata database to identify unknown audio files.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703605-bbf39780-2d92-11ea-8dad-0ae2c822dae2.png)
 
 ## Application Compiling
 
